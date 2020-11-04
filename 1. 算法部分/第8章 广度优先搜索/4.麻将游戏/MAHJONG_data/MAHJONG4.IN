@@ -1,0 +1,38 @@
+30 30
+  X X       X           X     
+ X     X  X  X                
+                     X  X   X 
+   X       X  X     X    X  X 
+ X X    XXX   X       X X     
+       X         X X   X      
+               XXX   X   X    
+X    X  XX X  X X      X X    
+ XXXX X      X       X  XX    
+   X X X X  X         X X X   
+   X             X X XX   XX  
+X    X XXX    X    X      X   
+   X      X X    X        X   
+        X  X X    X  X    X   
+       XXX XX        XXXX     
+  X    X  X    X        X  X  
+      X  X  XX   X       XX  X
+X X    X    X    X       X    
+ X         X  X     XX       X
+X     X  X               XX  X
+     XX      X      X X       
+           X X  X   X        X
+           X X      X         
+ X  X  X   XX  XX X  X        
+  XX   X X X          X  XX  X
+        X   X              X  
+  X  X  X     X               
+   XX   X        XXX X   X X X
+    X  XXX    X X     XX X    
+X              X    XX  XX   X
+20 28 12 19
+5 9 11 13
+3 18 10 25
+8 12 6 21
+9 12 22 28
+0 0 0 0
+0 0
